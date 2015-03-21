@@ -1,0 +1,35 @@
+.course-content ul.dateenrolled {margin:0;}
+.course-content ul.dateenrolled li.section {list-style: none;margin:0 0 5px 0;padding:0;}
+.course-content ul.dateenrolled li.section .content {margin:0 40px;}
+.course-content ul.dateenrolled li.section .left {float:left;}
+.course-content ul.dateenrolled li.section .right {float:right;}
+.course-content ul.dateenrolled li.section .left,
+.course-content ul.dateenrolled li.section .right {width:40px;text-align:center;padding: 6px 0;}
+.course-content ul.dateenrolled li.section .right img.icon { padding: 0 0 4px 0;}
+.course-content ul.dateenrolled li.section .left .section-handle img.icon { padding:0; vertical-align: baseline; }
+
+
+
+.course-content ul.dateenrolled li.section .content h3 {
+    color: #777777;
+    font-weight: normal;
+    margin: 0;
+}
+#futureweeks {
+    border: 3px dashed #E89696;
+    margin: 5px;
+    padding: 5px;
+}
+#futureweeks legend {
+    color: #E89696;
+    padding: 3px;
+    border: 1px solid;
+}
+/*#page-course-view-dateenrolled.editing #page-content:before {
+    background: none repeat scroll 0 0 #FFFFCC;
+    content: "Weeks will display in reverse order when finished editing";
+    float: right;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}*/

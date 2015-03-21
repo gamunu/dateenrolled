@@ -1,7 +1,4 @@
-##dateenrolled
-A moodle course plugin
-
-####This is the Moodle 2.6+ version
+This is the Moodle 2.6+ version
 
 All future weeks are hidden from the student view, based on enrolled date.
 If course start date is greater than the current enrolled date all future weeks will be hidden from the student.
